@@ -4,5 +4,13 @@ This paper describes on how we can utilize various biometrics for the automobile
 
 ### Project Link
 [ResearchGate](https://www.researchgate.net/project/Biometric-Authentication-for-Automobiles "ResearchGate")
-[Publication] (https://www.researchgate.net/publication/335681197_Biometric_Authentication_for_Automobiles "Published Version")
+[Published Paper](https://www.researchgate.net/publication/335681197_Biometric_Authentication_for_Automobiles "Published Paper")
 
+### DOI: 
+10.13140/RG.2.2.17735.85929
+
+### Authors
+- Bharath Karumudi
+- Phil Gist
+- Muhammad Qasim
+- Gregory M Wagner Ph.D
