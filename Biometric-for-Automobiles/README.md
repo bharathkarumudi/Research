@@ -4,4 +4,5 @@ This paper describes on how we can utilize various biometrics for the automobile
 
 ### Project Link
 [ResearchGate](https://www.researchgate.net/project/Biometric-Authentication-for-Automobiles "ResearchGate")
+[Publication] (https://www.researchgate.net/publication/335681197_Biometric_Authentication_for_Automobiles "Published Version")
 
